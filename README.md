@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Mi nombre es Angel Noe Pacheco Ramos👋
+Actualmente estoy estudiando TSU en Tecnologías de la Información Área Desarrollo de Software Multiplataforma en la UTSV
 <!--
 **angelPacheco23/angelPacheco23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
